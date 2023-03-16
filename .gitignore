@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 
+# Myapp
+db.sqlite3
+
 
 # PyCharm
 .idea/*
@@ -132,3 +135,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/secret.py
